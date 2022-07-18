@@ -57,7 +57,7 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_languages_indepth: yes
           plugin_languages_details: lines, bytes-size, percentage
-          plugin_projects: yes
+          plugin_projects: no
           plugin_projects_limit: 4
           plugin_topics: yes
           plugin_topics_limit: 15
