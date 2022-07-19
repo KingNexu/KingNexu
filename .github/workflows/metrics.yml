@@ -28,7 +28,7 @@ jobs:
           # Options
           user: KingNexu
           template: classic
-          base: header, metadata
+          base: metadata
           config_timezone: Europe/Berlin
           plugin_activity: yes
           plugin_activity_days: 14
