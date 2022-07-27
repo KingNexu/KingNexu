@@ -1482,7 +1482,7 @@ Fixed Multiline Displaying in Description of NewView personCount</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Jul 2022, 00:08:33 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 28 Jul 2022, 01:08:31 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
