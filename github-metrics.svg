@@ -267,7 +267,7 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Swift</span>
-                                <div class="bar" style="width: 23.38570337927432%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 23.045854122119266%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">29%</span>
                             </div>
                         </div>
@@ -1489,7 +1489,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Sept 2022, 19:31:03 (timezone Europe/Berlin) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 28 Sept 2022, 20:17:31 (timezone Europe/Berlin) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
