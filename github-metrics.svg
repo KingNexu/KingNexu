@@ -16,18 +16,31 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 71.3kb of code in 25 edited files across 16 commits</small>
+                <small>estimation from 132kb of code in 173 edited files across 78 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="234.26461345066" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="234.26461345066" y="0" width="214.60402262727843" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="448.86863607793845" y="0" width="11.131363922061597" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="340.87113506916194" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="340.87113506916194" y="0" width="113.72508136696501" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="454.5962164361269" y="0" width="5.403783563873068" height="8" fill="#178600"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#F05138" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                Swift
+                            </div>
+                            <small>
+                                <div>2.89k lines</div>
+                                <div>29.1 kB</div>
+                                <div>74.1%</div>
+                            </small>
+                        </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -38,20 +51,7 @@
                             <small>
                                 <div>450 lines</div>
                                 <div>9.72 kB</div>
-                                <div>50.93%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#F05138" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                Swift
-                            </div>
-                            <small>
-                                <div>1.96k lines</div>
-                                <div>8.91 kB</div>
-                                <div>46.65%</div>
+                                <div>24.72%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -64,7 +64,7 @@
                             <small>
                                 <div>29 lines</div>
                                 <div>462 bytes</div>
-                                <div>2.42%</div>
+                                <div>1.17%</div>
                             </small>
                         </div>
                     </section>
@@ -1357,14 +1357,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #6023F8">Your fortune: Outlook good</b>
+                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Jun 2023, 20:09:06 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 12 Jun 2023, 21:04:17 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
